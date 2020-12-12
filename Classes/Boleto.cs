@@ -21,7 +21,7 @@ namespace AulaPOO_Abstracao.Classes
         {
             float valorTotal = this.Valor - (this.Valor * 0.12f); 
 
-            Console.WriteLine($"Valor do boleto: R${this.Valor}");
+            Console.WriteLine($"Valor do boleto: R${valorTotal}");
             Console.WriteLine($"Data: {this.Data}");
             Console.WriteLine($"Data de vencimento: {this.Data.AddDays(10)}");
             Console.WriteLine($"Código de barras: {this.CodigoDeBarras}");

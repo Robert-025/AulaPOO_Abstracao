@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.exe
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.deps.json
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.dll
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.pdb
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.dll
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.pdb
+C:\Users\10\Documents\Curso\BackEnd\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.genruntimeconfig.cache
